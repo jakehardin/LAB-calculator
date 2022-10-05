@@ -1,0 +1,8 @@
+.container-one {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.whole-thing {
+  width: 400px;
+}
